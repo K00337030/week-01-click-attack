@@ -7,6 +7,7 @@ body {
     padding: 2rem;
     line-height: 1.5;
     background-color: skyblue;
+    font-weight: bolder;
 }
 
 button, input {
@@ -14,3 +15,5 @@ button, input {
     padding: 0.7rem 1rem;
     margin: 0.25rem;
 }
+
+
