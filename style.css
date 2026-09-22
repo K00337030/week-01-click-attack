@@ -1,19 +1,22 @@
 .* {box-sizing: border-box;}
 
 body {
-    font-family: Arial, sans-serif;
-    max-width: 900px;
-    margin: auto;
-    padding: 2rem;
-    line-height: 1.5;
-    background-color: skyblue;
-    font-weight: bolder;
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+  line-height: 1.5;
+  background-color: skyblue;
+  text-align: center;
 }
 
 button, input {
-    font: inherit;
-    padding: 0.7rem 1rem;
-    margin: 0.25rem;
+  font: inherit;
+  padding: 0.7rem 1rem;
+  margin: 0.25rem;
+  border-width: 1rem;
+  border-color: navy;
 }
+
 
 
